@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Kadam
-- 👀 I’m interested in AI, MAchine Learning and Deep Learning.
-- 👀 Data Scientist
-- 🌱 I’m a recent Graduate.
+- 👀 I’m interested in AI, Machine Learning, NLP and Deep Learning.
+- 👀 I am a Data Scientist
+- 🌱 I’m a recent Graduate - B.Tech Computer Science and Enginnering with specialization in Data Analytics.
 - 💞️ I’m looking to collaborate on Interesting ML || DL projects.
 - 📫 Contact me @ aditya.adityakadam.de@gmail.com
 - LinkedIn - https://www.linkedin.com/in/adityakadamm/
